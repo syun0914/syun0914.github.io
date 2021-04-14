@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "syun0914"
+name: "Admin"
+description: "시험을 싫어하는 사람이 운영하는 블로그"
+url: "https://syun0914.github.io"
+baseurl: ''
